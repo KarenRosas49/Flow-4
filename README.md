@@ -46,7 +46,7 @@ Una vez completados los pasos anteriores se deberá ver abrir el dashboard, como
 
 El flow en Node Red debe verse como el mostrado a continuación:
 
-![Captura de pantalla](Captura_NodeRed)
+![Captura de pantalla](Captura_NodeRed.png)
 
 ## Evidencias
 [Evidencia Flow 4]()
