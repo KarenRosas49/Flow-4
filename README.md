@@ -49,9 +49,9 @@ El flow en Node Red debe verse como el mostrado a continuación:
 ![Captura de pantalla](Captura_NodeRed.png)
 
 ## Evidencias
-[Evidencia Flow 4]()
+[Evidencia Flow 4](https://youtu.be/up2s5yH4JKM)
 
 ## Créditos
-Este ejercicio fue basado en los ejercicios que se encuentran en el repositorio [flow4-NodeRed]()
+Este ejercicio fue basado en los ejercicios que se encuentran en el repositorio [flow4-NodeRed](https://github.com/hugoescalpelo/flow4-NodeRed-MQTT)
 
 Documentación realizada por [Karen Rosas](https://github.com/KarenRosas49)
